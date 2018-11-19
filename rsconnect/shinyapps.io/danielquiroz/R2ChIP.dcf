@@ -1,0 +1,13 @@
+name: R2ChIP
+title: R2ChIP
+username:
+account: danielquiroz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 554506
+bundleId: 1706392
+url: https://danielquiroz.shinyapps.io/R2ChIP/
+when: 1542487359.85369
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: exampleData
